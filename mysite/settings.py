@@ -25,7 +25,7 @@ SECRET_KEY = '4-cu(7i+1uuxt6a28wvctsfi+b3r$q$yh&no0pe!kdx#o8jrw0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'piottip/pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'piottip.pythonanywhere.com']
 
 
 # Application definition
